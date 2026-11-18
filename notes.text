@@ -1,0 +1,10 @@
+node js : run time to use java script 
+npm : mode package manager 
+module.export => عشان اصدر الملف و استخدمه فى اى مكان تانى 
+لو اكتر من function بصدرهم على هيئة object 
+module.exports = {}
+اما استدعيهم بستخدم cosnt {varname} بستخدمها كده عشان لو مصدر اكتر من امر = require("./filename")
+
+eventloop عشان نتحكم فى العمليات الغير متزامنه 
+
+express : frame work عشان اكتب بسهوله فى ال nodejs
